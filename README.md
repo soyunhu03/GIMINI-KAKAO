@@ -5,3 +5,4 @@ GEMINI API키의 한도가 도달할 경우 다른 모델을 사용하도록 설
 해당 프로그램은 카카오 또는 구글의 지원을 받지 않음.
 *실행시 카카오톡의 체팅방이 실행되어야 함
 https://kakaogemini.my.canva.site/
+!pip install pywinauto pyautogui pyperclip google-generativeai      !
